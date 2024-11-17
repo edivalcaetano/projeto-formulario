@@ -19,7 +19,7 @@ body {
 }
 
 main {
-    height: 720px;
+    height: 750px;
     width: 500px;
     display: flex;
     flex-flow: column nowrap;
