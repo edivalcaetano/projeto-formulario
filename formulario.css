@@ -26,6 +26,7 @@ main {
     align-items: center;
     padding: 20px;
     border: 1px solid #380b61;
+    border-radius: 10px;
     box-shadow: 0px 0px 10px #370b6178;
 }
 
@@ -96,8 +97,8 @@ fieldset, fieldset.grupo .campo {
 }
 
 .botao {
-    width: 120px;
-    font-size: 1.2em;
+    width: 100px;
+    font-size: 1em;
     background-color: #59429d;
     border: 0;
     color: #ffffff;
